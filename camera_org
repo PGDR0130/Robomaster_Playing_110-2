@@ -1,0 +1,33 @@
+import time
+import cv2
+from robomaster import robot
+from robomaster import camera
+
+
+if __name__ == '__main__':
+    ep_robot = robot.Robot()
+    ep_robot.initialize(conn_type="ap")
+
+    ep_camera = ep_robot.camera
+
+    # cv2
+    target_img = cv2.imread('target_b.png', cv2.COLOR_BGR2RGB)
+
+    ep_camera.start_video_stream(display=False, resolution=camera.STREAM_720P)
+    while True:
+        camera_img = ep_camera.read_cv2_image(strategy='newest')
+        camera_img = cv2.cvtColor(camera_img, cv2.COLOR_BGR2RGB)
+        result = cv2.matchTemplate(camera_img, target_img, cv2.TM_CCOEFF_NORMED)
+
+        #draw
+        min_val, max_val, mic_loc, max_loc = cv2.minMaxLoc(result)
+        w, h = target_img.shape[0], target_img.shape[1]
+        cv2.rectangle(camera_img, max_loc, (max_loc[0] + w, max_loc[1] + h), (0, 255, 255), 2)
+
+
+        cv2.imshow("EP Robot",result) 
+        cv2.imshow('cma', camera_img)
+        cv2.waitKey(1)
+
+
+    ep_robot.close()
