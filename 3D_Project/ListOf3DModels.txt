@@ -1,0 +1,17 @@
+All File location for easy access to 3D Online viewer
+
+Day1 Us: 
+https://github.com/PGDR0130/Robomaster_Playing_110-2/blob/main/3D_Project/5_2_Day1/3D_Model/texturedMesh.obj
+https://github.com/PGDR0130/Robomaster_Playing_110-2/blob/main/3D_Project/5_2_Day1/3D_Model/texturedMesh.mtl
+https://github.com/PGDR0130/Robomaster_Playing_110-2/blob/main/3D_Project/5_2_Day1/3D_Model/texture_1001.png
+
+
+Day2 Hall:
+https://github.com/PGDR0130/Robomaster_Playing_110-2/blob/main/3D_Project/5_9_Day2/3D_Model/texturedMesh.obj
+https://github.com/PGDR0130/Robomaster_Playing_110-2/blob/main/3D_Project/5_9_Day2/3D_Model/texturedMesh.mtl
+https://github.com/PGDR0130/Robomaster_Playing_110-2/blob/main/3D_Project/5_9_Day2/3D_Model/texture_1001.png
+
+Day3 Long_Hall:
+https://github.com/PGDR0130/Robomaster_Playing_110-2/blob/main/3D_Project/5_16_Day3/3D_Model_FirstTry/texturedMesh.obj
+https://github.com/PGDR0130/Robomaster_Playing_110-2/blob/main/3D_Project/5_16_Day3/3D_Model_FirstTry/texturedMesh.mtl
+https://github.com/PGDR0130/Robomaster_Playing_110-2/blob/main/3D_Project/5_16_Day3/3D_Model_FirstTry/texture_1001.png
