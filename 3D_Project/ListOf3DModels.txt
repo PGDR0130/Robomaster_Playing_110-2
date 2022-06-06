@@ -11,7 +11,12 @@ https://github.com/PGDR0130/Robomaster_Playing_110-2/blob/main/3D_Project/5_9_Da
 https://github.com/PGDR0130/Robomaster_Playing_110-2/blob/main/3D_Project/5_9_Day2/3D_Model/texturedMesh.mtl
 https://github.com/PGDR0130/Robomaster_Playing_110-2/blob/main/3D_Project/5_9_Day2/3D_Model/texture_1001.png
 
-Day3 Long_Hall:
+Day3 Long_Hall - 1 (Weird):
 https://github.com/PGDR0130/Robomaster_Playing_110-2/blob/main/3D_Project/5_16_Day3/3D_Model_FirstTry/texturedMesh.obj
 https://github.com/PGDR0130/Robomaster_Playing_110-2/blob/main/3D_Project/5_16_Day3/3D_Model_FirstTry/texturedMesh.mtl
 https://github.com/PGDR0130/Robomaster_Playing_110-2/blob/main/3D_Project/5_16_Day3/3D_Model_FirstTry/texture_1001.png
+
+Day3 Long_Hall - 2 (Better):
+https://github.com/PGDR0130/Robomaster_Playing_110-2/blob/main/3D_Project/5_16_Day3/3D_Model_SecondTry/texturedMesh.obj
+https://github.com/PGDR0130/Robomaster_Playing_110-2/blob/main/3D_Project/5_16_Day3/3D_Model_SecondTry/texturedMesh.mtl
+https://github.com/PGDR0130/Robomaster_Playing_110-2/blob/main/3D_Project/5_16_Day3/3D_Model_SecondTry/texture_1001.png
